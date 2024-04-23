@@ -13,9 +13,7 @@ This project demonstrates how to implement authentication using Passport.js in a
 
  > npm install
 
-3. Set up environment variables by creating a .env file
-   
- > MONGO_URI=your_mongodb_connection_uri
+3. Set up environment variables.
 
 4. Start the server.
    
