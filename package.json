@@ -1,5 +1,5 @@
 {
-  "name": "authentication-with-passport-node",
+  "name": "user-authentication-api",
   "version": "1.0.0",
   "description": "Authentication with passport",
   "main": "server.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tweneboah/authentication-with-passport-node-js.git"
+    "url": "https://github.com/raghabendra-dash/User_Authentication-API.git"
   },
   "keywords": [
     "Authentication"
@@ -16,9 +16,9 @@
   "author": "Raghabendra",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tweneboah/authentication-with-passport-node-js/issues"
+    "url": "https://github.com/raghabendra-dash/User_Authentication-API/issues"
   },
-  "homepage": "https://github.com/tweneboah/authentication-with-passport-node-js#readme",
+  "homepage": "",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.5",
